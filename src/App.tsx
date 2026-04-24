@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Meu Projeto React com TypeScript</h1>
+      <h1>Meu Projeto React</h1>
 
       <p>Contador: {contador}</p>
 
